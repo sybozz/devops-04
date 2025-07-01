@@ -31,8 +31,6 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 systemctl enable docker
 systemctl start docker
 
-
-
 # Add jenkins user to docker group
 usermod -aG docker jenkins
 
