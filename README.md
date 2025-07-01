@@ -1,4 +1,3 @@
-# devops-04
 # jenkins Final exam
 ## steps
 
@@ -29,13 +28,9 @@
         -        docker push to docker hub
 
 5. all credentials should be used securely(not hardcoded)
-## submission
-
-Submit your github repository here: https://docs.google.com/spreadsheets/d/1dkKWBizoyVMlj6TxenMnVJOWh4j2-m_a6RrasBLMLHQ/edit?usp=sharing
 
 
 Repository must contain:
 
     File named userdata.sh, should contain aws user data
     Jenkinsfile
-
